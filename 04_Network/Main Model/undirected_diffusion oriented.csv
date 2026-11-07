@@ -1,0 +1,147 @@
+Id,Label,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,pageranks,componentnumber,modularity_class,stat_inf_class,clustering,triangles,eigencentrality,type
+1,NASA,7,7,5,0.366412,0.420833,24.912031,0.138433,0.138433,0.00947,0,0,3,0.142857,3,0.361767,government
+8,SpaceX,5,5,5,0.342857,0.388542,6.383393,0.103493,0.103493,0.007007,0,0,3,0,0,0.268914,Startup
+9,Blue Origin,4,4,5,0.336842,0.378125,4.476054,0.080494,0.080494,0.005922,0,0,3,0,0,0.209148,Startup
+18,Rocket Lab,17,17,5,0.421053,0.507639,472.641756,0.2318,0.2318,0.024022,0,0,1,0.073529,10,0.631429,Startup
+19,Firefly Aerospace,11,11,5,0.412017,0.476389,164.226588,0.207073,0.207073,0.014906,0,0,3,0.272727,15,0.55622,Startup
+20,Relativity Space,9,9,6,0.365019,0.431076,31.81854,0.172216,0.172216,0.011727,0,0,3,0.444444,16,0.447452,Startup
+21,Sierra Space,21,21,5,0.45933,0.551042,661.400405,0.327844,0.327844,0.025654,0,7,14,0.142857,30,0.897206,Startup
+23,United Launch Alliance,13,13,4,0.430493,0.496528,428.504214,0.193497,0.193497,0.016716,0,2,2,0.076923,6,0.536084,Large Enterprise
+2,USSF,17,17,5,0.426667,0.513715,488.588944,0.245597,0.245597,0.022768,0,0,3,0.088235,12,0.657909,government
+5,Lockheed Martin,9,9,4,0.410256,0.46441,183.363609,0.161395,0.161395,0.012175,0,1,4,0.166667,6,0.452381,Large Enterprise
+7,Northrop Grumman,7,7,4,0.384,0.43316,41.714227,0.125746,0.125746,0.009359,0,1,15,0.380952,8,0.347058,Large Enterprise
+10,L3Harris,12,12,5,0.442396,0.503819,256.9943,0.204988,0.204988,0.015191,0,1,11,0.242424,16,0.58144,Large Enterprise
+15,Aerojet Rocketdyne,13,13,5,0.39834,0.469965,356.327426,0.141256,0.141256,0.017925,0,1,15,0.128205,10,0.40614,Mid-sized Enterprise
+65,ABL Space Systems,3,3,6,0.308682,0.351215,0.911164,0.055231,0.055231,0.004868,0,0,3,0.666667,2,0.142937,Startup
+96,Ursa Major,9,9,6,0.324324,0.392014,31.873441,0.126824,0.126824,0.012344,0,0,3,0.25,9,0.33003,Startup
+101,Astronics Corporation,2,2,6,0.333333,0.366493,4.946647,0.037125,0.037125,0.003805,0,1,15,0,0,0.104228,Mid-sized Enterprise
+103,"Dytran Instruments, Inc.",4,4,5,0.342857,0.384722,141.094018,0.047618,0.047618,0.004991,0,2,12,0.333333,2,0.133962,Small and Medium-sized Enterprise (SME)
+105,Ansys,6,6,6,0.342857,0.394271,111.567917,0.093061,0.093061,0.009495,0,0,3,0.133333,2,0.246133,Large Enterprise
+139,Air Force Institute of Technology,1,1,6,0.3,0.329514,0,0.025827,0.025827,0.002558,0,0,3,0,0,0.067685,university
+3,DARPA,9,9,6,0.362264,0.428472,50.725918,0.152798,0.152798,0.012068,0,0,3,0.25,9,0.397118,government
+112,Purdue University,9,9,5,0.375,0.43941,80.509008,0.148048,0.148048,0.012071,0,0,3,0.333333,12,0.391088,university
+4,FAA AST,13,13,4,0.442396,0.506076,298.873791,0.228631,0.228631,0.016268,0,7,9,0.179487,14,0.631998,government
+12,Moog Inc.,12,12,5,0.405063,0.472569,521.977845,0.107441,0.107441,0.017536,0,1,15,0.075758,5,0.329317,Mid-sized Enterprise
+34,Spaceflight Industries,6,6,5,0.352941,0.404688,53.260878,0.083423,0.083423,0.008954,0,7,13,0.2,3,0.22615,Mid-sized Enterprise
+39,Adaptive Launch Solutions,5,5,5,0.365019,0.409549,55.514853,0.07502,0.07502,0.007283,0,3,13,0.3,3,0.227538,Small and Medium-sized Enterprise (SME)
+42,ai Solutions Inc,26,26,5,0.484848,0.577604,1204.940603,0.319017,0.319017,0.03199,0,3,5,0.13,39,1,Mid-sized Enterprise
+57,Jacobs,11,11,5,0.40678,0.472917,214.512016,0.190473,0.190473,0.013877,0,7,10,0.290909,16,0.530128,Large Enterprise
+61,RS&H,7,7,5,0.360902,0.406076,25.943215,0.093178,0.093178,0.007142,0,7,10,0.6,9,0.281327,Mid-sized Enterprise
+6,Boeing,2,2,5,0.3,0.328819,6.615751,0.019545,0.019545,0.003667,0,1,4,0,0,0.057686,Large Enterprise
+45,Analytical Graphics,7,7,5,0.388664,0.439931,29.617513,0.138164,0.138164,0.009495,0,3,1,0.380952,8,0.386075,Mid-sized Enterprise
+75,Collins Aerospace,5,5,5,0.331034,0.373437,40.444078,0.052692,0.052692,0.008041,0,1,4,0.2,2,0.149889,Large Enterprise
+104,3D Systems,13,13,5,0.413793,0.487326,185.37645,0.218706,0.218706,0.016528,0,0,0,0.153846,12,0.584625,Large Enterprise
+88,Oceaneering,7,7,5,0.301887,0.344792,108.285762,0.024464,0.024464,0.009042,0,1,4,0.4,6,0.086675,Large Enterprise
+13,Hexcel Corp.,6,6,5,0.358209,0.407813,121.001526,0.087316,0.087316,0.008013,0,2,15,0.133333,2,0.241369,Mid-sized Enterprise
+44,Amphenol Aerospace,3,3,5,0.336842,0.368403,21.835762,0.035125,0.035125,0.004526,0,1,12,0,0,0.107615,Large Enterprise
+55,Honeywell Aerospace,5,5,4,0.355556,0.396701,89.057228,0.060998,0.060998,0.007288,0,1,4,0.2,2,0.178023,Large Enterprise
+62,Space Information Laboratories,12,12,4,0.40678,0.46441,385.054634,0.095682,0.095682,0.014214,0,3,15,0.2,11,0.339034,Small and Medium-sized Enterprise (SME)
+16,Mercury Systems,4,4,4,0.363636,0.40191,207.673729,0.04586,0.04586,0.009623,0,3,15,0,0,0.144181,Mid-sized Enterprise
+73,"Atec, Inc.",4,4,6,0.32107,0.365451,42.918176,0.031067,0.031067,0.006394,0,2,15,0.166667,1,0.102005,Mid-sized Enterprise
+84,Jansens Aircraft Systems Controls,6,6,6,0.313725,0.365799,299.965502,0.021495,0.021495,0.01201,0,6,15,0.2,3,0.086464,Small and Medium-sized Enterprise (SME)
+87,Marotta Controls,7,7,6,0.335664,0.395833,135.843612,0.037323,0.037323,0.010841,0,6,15,0.238095,5,0.137478,Mid-sized Enterprise
+72,Applied Aerospace Structures Corporation,3,3,5,0.32107,0.355556,10.413839,0.032797,0.032797,0.005011,0,2,15,0.333333,1,0.093373,Mid-sized Enterprise
+135,University of California Davis,3,3,6,0.264463,0.285417,0,0.009182,0.009182,0.002554,0,2,15,1,1,0.030258,university
+14,Kratos Defense & Security,3,3,6,0.351648,0.391667,5.132005,0.062138,0.062138,0.005365,0,0,1,0.666667,2,0.17978,Mid-sized Enterprise
+43,AMERGINT Technologies,2,2,6,0.328767,0.361285,0,0.040082,0.040082,0.003988,0,0,1,1,1,0.120672,Small and Medium-sized Enterprise (SME)
+59,Pacific Scientific Energetic Materials,5,5,6,0.32,0.365104,60.546302,0.026934,0.026934,0.008523,0,6,15,0.4,4,0.09427,Large Enterprise
+60,Precision Fluid Controls,5,5,5,0.345324,0.390799,180.99285,0.041164,0.041164,0.007806,0,6,15,0.1,1,0.132315,Small and Medium-sized Enterprise (SME)
+70,Airborne Systems,2,2,6,0.297214,0.329687,4.99698,0.020395,0.020395,0.00396,0,1,4,0,0,0.060668,Large Enterprise
+95,Turbocam International,3,3,5,0.326531,0.365451,6.469599,0.048539,0.048539,0.004853,0,1,3,0,0,0.1337,Mid-sized Enterprise
+78,Dynetics,1,1,5,0.267409,0.284722,0,0.004823,0.004823,0.003458,0,3,15,0,0,0.016073,Mid-sized Enterprise
+98,VPT,1,1,5,0.267409,0.284722,0,0.004823,0.004823,0.003458,0,3,15,0,0,0.016073,Mid-sized Enterprise
+32,Launcher,6,6,5,0.351648,0.402951,203.803084,0.05187,0.05187,0.009265,0,6,8,0.133333,2,0.159403,Startup
+53,Epsilon3,7,7,6,0.380952,0.438542,111.301824,0.131372,0.131372,0.009687,0,3,8,0.238095,5,0.368109,Startup
+107,MIT,3,3,6,0.351648,0.391667,0,0.072452,0.072452,0.004824,0,3,1,1,3,0.205991,university
+110,Georgia Tech,5,5,6,0.328767,0.379687,18.48951,0.072352,0.072352,0.007514,0,0,3,0.1,1,0.190496,university
+111,University of Michigan,1,1,6,0.297214,0.326562,0,0.024376,0.024376,0.002618,0,0,1,0,0,0.06502,university
+113,University of Illinois Urbana-Champaign,1,1,6,0.297214,0.326562,0,0.024376,0.024376,0.002618,0,0,1,0,0,0.06502,university
+119,University of Colorado Boulder,4,4,5,0.359551,0.401736,12.987086,0.092536,0.092536,0.005921,0,2,3,0,0,0.245542,university
+115,Texas A&M University,1,1,6,0.292683,0.316319,0,0.021776,0.021776,0.002569,0,0,3,0,0,0.056136,university
+22,Axiom Space,6,6,6,0.369231,0.422917,115.832995,0.096228,0.096228,0.00857,0,7,4,0.4,6,0.27653,Startup
+33,Nanoracks,4,4,6,0.329897,0.374653,25.74991,0.055736,0.055736,0.006451,0,7,13,0.333333,2,0.151895,Mid-sized Enterprise
+50,Craig Technologies,10,10,6,0.372093,0.432465,178.532454,0.107397,0.107397,0.012174,0,7,12,0.361111,13,0.347353,Small and Medium-sized Enterprise (SME)
+52,ENSCO,7,7,5,0.387097,0.436979,54.336064,0.134713,0.134713,0.009249,0,7,10,0.47619,10,0.383223,Mid-sized Enterprise
+79,EaglePicher Technologies,4,4,5,0.356877,0.396528,67.497811,0.049746,0.049746,0.006348,0,6,15,0.333333,2,0.151768,Mid-sized Enterprise
+90,Paragon Space Development Corporation,5,5,6,0.33218,0.382465,127.472586,0.053298,0.053298,0.008594,0,7,4,0.2,2,0.15085,Small and Medium-sized Enterprise (SME)
+26,bluShift Aerospace,1,1,1,1,1,0,0,0,0.009434,1,4,6,0,0,0.001526,Startup
+131,Embry–Riddle Aeronautical University,1,1,1,1,1,0,0,0,0.009434,1,4,6,0,0,0.001526,university
+28,CubeCab,1,1,1,1,1,0,0,0,0.009434,2,5,7,0,0,0.001526,Startup
+31,Fenix Space,1,1,1,1,1,0,0,0,0.009434,2,5,7,0,0,0.001526,Startup
+82,Infinite Composites,1,1,6,0.26087,0.282639,0,0.005455,0.005455,0.002731,0,6,8,0,0,0.018357,Startup
+89,Parabilis Space Technologies,4,4,6,0.273504,0.301736,0,0.00769,0.00769,0.004011,0,6,8,1,3,0.034532,Startup
+94,Triton Space Technologies,5,5,6,0.316832,0.361979,79.487425,0.02126,0.02126,0.007509,0,6,8,0.1,1,0.076927,Startup
+100,Xtenti,3,3,6,0.290909,0.323611,1.75,0.022523,0.022523,0.005302,0,7,13,0.333333,1,0.064711,Startup
+36,TriSept Corporation,5,5,5,0.326531,0.37066,19.03969,0.047546,0.047546,0.007256,0,3,13,0.1,1,0.145186,Small and Medium-sized Enterprise (SME)
+58,"Omitron, Inc.",5,5,6,0.342857,0.390799,49.24524,0.066641,0.066641,0.006677,0,3,12,0.2,2,0.205172,Small and Medium-sized Enterprise (SME)
+38,A&R Tarpaulins,1,1,7,0.253298,0.273189,0,0.004726,0.004726,0.002557,0,3,10,0,0,0.017422,Small and Medium-sized Enterprise (SME)
+46,Astro Pak,6,6,6,0.338028,0.38125,189,0.044941,0.044941,0.00806,0,3,10,0.4,4,0.156437,Small and Medium-sized Enterprise (SME)
+40,Advanced Inspection Technologies,1,1,7,0.253298,0.273189,0,0.004726,0.004726,0.002557,0,3,10,0,0,0.017422,Small and Medium-sized Enterprise (SME)
+41,Air Products and Chemicals,3,3,6,0.3,0.336111,0,0.040228,0.040228,0.004598,0,7,10,1,3,0.113916,Large Enterprise
+48,BRPH,8,8,6,0.354244,0.415972,231.265981,0.098898,0.098898,0.011596,0,7,10,0.285714,8,0.294745,Mid-sized Enterprise
+99,Zin Technologies,2,2,6,0.331034,0.364757,0,0.044841,0.044841,0.003501,0,3,12,1,1,0.138158,Mid-sized Enterprise
+118,University of Maryland College Park,1,1,6,0.327645,0.356076,0,0.033547,0.033547,0.002465,0,3,1,0,0,0.101865,university
+54,"Haigh-Farr, Inc",6,6,5,0.302839,0.342708,58.440344,0.021593,0.021593,0.005516,0,3,12,0.4,4,0.089422,Small and Medium-sized Enterprise (SME)
+47,Brandywine Communications,1,1,5,0.29003,0.311458,0,0.010062,0.010062,0.002424,0,3,15,0,0,0.03719,Small and Medium-sized Enterprise (SME)
+51,Dunmore Aerospace,2,2,7,0.263736,0.294196,95,0.010516,0.010516,0.006066,0,7,10,0,0,0.032925,Mid-sized Enterprise
+49,Concurrent Real-Time,4,4,6,0.26158,0.286285,0,0.005837,0.005837,0.003146,0,2,12,1,3,0.026295,Mid-sized Enterprise
+64,United Electronic Industries,5,5,6,0.275862,0.307639,16.307738,0.007892,0.007892,0.00393,0,2,12,0.666667,4,0.037845,Small and Medium-sized Enterprise (SME)
+92,Standex Engineering Technologies Group,1,1,7,0.271955,0.296106,0,0.011294,0.011294,0.002452,0,7,12,0,0,0.036292,Mid-sized Enterprise
+144,University of Central Florida,2,2,6,0.298137,0.327604,8.304004,0.018037,0.018037,0.003724,0,7,12,0,0,0.055841,university
+69,Aerospace Fabrication,1,1,8,0.20915,0.226426,0,0.001106,0.001106,0.003991,0,7,10,0,0,0.004821,Mid-sized Enterprise
+106,SpaceWorks,6,6,5,0.340426,0.388194,78.198404,0.064123,0.064123,0.008973,0,0,8,0.066667,1,0.176194,Startup
+63,Space Vector Corporation,2,2,6,0.25876,0.28316,0,0.005209,0.005209,0.004298,0,6,15,1,1,0.023756,Small and Medium-sized Enterprise (SME)
+81,Ensign-Bickford Aerospace & Defense,5,5,5,0.323232,0.363889,65.60332,0.022598,0.022598,0.008382,0,6,15,0.4,4,0.088053,Mid-sized Enterprise
+97,Valcor Engineering Corporation,7,7,6,0.280702,0.326562,101.110431,0.013935,0.013935,0.009307,0,6,15,0.466667,7,0.071156,Mid-sized Enterprise
+74,CDA InterCorp,2,2,7,0.240602,0.269196,95,0.002286,0.002286,0.006803,0,6,15,0,0,0.013754,Small and Medium-sized Enterprise (SME)
+83,Ingenium Aerospace,1,1,8,0.194332,0.211099,0,0.00024,0.00024,0.004316,0,6,15,0,0,0.003224,Small and Medium-sized Enterprise (SME)
+77,Dynamic Fabrication,1,1,7,0.239401,0.262252,0,0.00226,0.00226,0.003122,0,6,15,0,0,0.012024,Small and Medium-sized Enterprise (SME)
+91,Sierra Nevada Corporation,1,1,6,0.232446,0.252257,0,0.002573,0.002573,0.002515,0,1,4,0,0,0.011437,Large Enterprise
+127,University of Florida,1,1,7,0.25,0.272421,0,0.005605,0.005605,0.00288,0,7,4,0,0,0.016928,university
+93,Teledyne Brown Engineering,1,1,7,0.21968,0.241171,0,0.001465,0.001465,0.002548,0,6,15,0,0,0.010621,Mid-sized Enterprise
+108,Caltech,1,1,7,0.256,0.278051,0,0.009786,0.009786,0.002762,0,0,3,0,0,0.025898,university
+117,University of California Los Angeles,2,2,0,0,0,0,0,0,0.001415,3,8,16,0,0,0.001526,university
+121,Johns Hopkins University,2,2,0,0,0,0,0,0,0.001415,4,9,17,0,0,0.001526,university
+128,"University of Minnesota, Twin Cities",2,2,0,0,0,0,0,0,0.001415,5,10,18,0,0,0.001526,university
+133,University of Arizona,2,2,0,0,0,0,0,0,0.001415,6,11,19,0,0,0.001526,university
+143,University of Tennessee Knoxville,2,2,0,0,0,0,0,0,0.001415,7,12,20,0,0,0.001526,university
+11,BWX Technologies,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Large Enterprise
+17,Virgin Galactic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Startup
+24,Aevum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Startup
+25,"Astra Space, Inc.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Startup
+27,Celestis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small and Medium-sized Enterprise (SME)
+29,Elysium Space,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Startup
+30,EXOS Aerospace,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Startup
+35,SpinLaunch,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Startup
+37,UP Aerospace,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small and Medium-sized Enterprise (SME)
+56,Infinity Fuel Cell and Hydrogen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small and Medium-sized Enterprise (SME)
+66,iRocket,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Startup
+67,Pipeline2Space,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Startup
+68,RocketStar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Startup
+71,American Aerospace Controls,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small and Medium-sized Enterprise (SME)
+76,Curtiss-Wright Corp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Large Enterprise
+80,Ecliptic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Startup
+85,Kaman Corporation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Large Enterprise
+86,Leggett & Platt Aerospace,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Large Enterprise
+102,Baughn Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small and Medium-sized Enterprise (SME)
+109,Stanford University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+114,University of Texas Austin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+116,University of California Berkeley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+120,Princeton University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+122,University of Southern California,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+123,"University of Washington, Seattle",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+124,Cornell University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+125,Ohio State University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+126,Pennsylvania State University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+129,North Carolina State University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+130,Virginia Tech,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+132,University of Notre Dame,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+134,"University at Buffalo, SUNY",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+136,University of California San Diego,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+137,Auburn University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+138,Boston University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+140,Arizona State University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+141,George Mason University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+142,University of Houston,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+145,University of Kansas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
+146,Wichita State University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,university
