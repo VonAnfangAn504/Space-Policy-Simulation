@@ -19,6 +19,7 @@ trait_data_univ: Agent profiles and attributes for universities.
 
 These datasets provide the organizational characteristics used to construct agent profiles for the simulations.
 
+
 02_Code: Simulation Source Code
 
 This directory contains the source code used to implement the baseline and dynamic simulations.
@@ -34,6 +35,7 @@ Space_Policy_S1_AnchorExit: Source code for Scenario 1 (Anchor Node Exit).
 Space_Policy_S2_NewEntrant: Source code for Scenario 2 (New Entrant).
 
 Space_Policy_S3_PolicyReversal: Source code for Scenario 3 (Policy Reversal).
+
 
 03_Results: LLM Simulation Outputs
 
@@ -64,6 +66,7 @@ answer_sheet_S3_D2M_phase1 to phase3
 answer_sheet_S3_M2D_phase1 to phase3
 
 D2M denotes a transition from diffusion-oriented to mission-oriented policy, while M2D denotes a transition from mission-oriented to diffusion-oriented policy.
+
 
 04_Network: Network Analysis Materials
 
